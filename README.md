@@ -2,12 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Ferreira;I'm+19+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PedrooSilvaa&theme=algolia)](https://github.com/PedrooSilvaa)
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PedrooSilvaa&theme=dark&hide_border=true&border_radius=6&date_format=%5BY%20%5DM%20j&mode=weekly" alt="Pedro SIlvaa" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedrooSilvaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000" alt="Pedro Silva github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooSilvaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=PedrooSilvaa&theme=algolia)](https://github.com/PedrooSilvaa)
 </div>  
 
 <h3 align="left">Connect with me:</h3>
